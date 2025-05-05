@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://media1.tenor.com/m/DbDuhxNmD64AAAAC/sukuna-gojo.gif"  />
+  <img height="400" src="https://media1.tenor.com/m/DbDuhxNmD64AAAAC/sukuna-gojo.gif"  />
 </div>
 
 ###
