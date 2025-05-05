@@ -8,8 +8,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="200" src="https://media1.tenor.com/m/BU-XI6F4iEQAAAAC/yavuz1.gif"  />
 
 ###
@@ -23,13 +21,12 @@
 ###
 
 <br clear="both">
-
+<hr>
 <h3 align="left">🛠️ Technologies & Tools</h3>
 
 ###
 
 <br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -55,14 +52,12 @@
 </div>
 
 ###
+<hr>
 
 <br clear="both">
-
 <h3 align="left">📫 Connect with Me</h3>
 
 ###
-
-<br clear="both">
 
 <img align="left" height="180" src="https://media1.tenor.com/m/VR0K7_RCFCkAAAAC/jujutsu-kaisen-jujutsukaisen.gif"  />
 
@@ -91,15 +86,14 @@
 ###
 
 <br clear="both">
-
+<hr>
 <h3 align="left">🐍 Coding in Python, Growing Like a Snake! 🎮</h3>
 
-###
 
 <img src="https://raw.githubusercontent.com/ryurex-code/ryurex-code/output/snake.svg" alt="Snake animation" />
+<hr>
 
 ###
-
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/3a3XcQUCFPkAAAAC/lycoris-recoil-chisato-nishikigi.gif"  />
 </div>
