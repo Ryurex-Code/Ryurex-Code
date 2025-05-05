@@ -24,7 +24,6 @@
 <hr>
 <h3 align="left">🛠️ Technologies & Tools</h3>
 
-###
 
 <br clear="both">
 <div align="center">
@@ -51,10 +50,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
 </div>
 
-###
-<hr>
+
 
 <br clear="both">
+<hr>
 <h3 align="left">📫 Connect with Me</h3>
 
 ###
@@ -88,11 +87,8 @@
 <br clear="both">
 <hr>
 <h3 align="left">🐍 Coding in Python, Growing Like a Snake! 🎮</h3>
-
-
 <img src="https://raw.githubusercontent.com/ryurex-code/ryurex-code/output/snake.svg" alt="Snake animation" />
 <hr>
-
 ###
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/3a3XcQUCFPkAAAAC/lycoris-recoil-chisato-nishikigi.gif"  />
