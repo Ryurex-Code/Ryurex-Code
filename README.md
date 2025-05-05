@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://media1.tenor.com/m/DbDuhxNmD64AAAAd/sukuna-gojo.gif"  />
+  <img height="350" src="https://media1.tenor.com/m/DbDuhxNmD64AAAAd/sukuna-gojo.gif"  />
 </div>
 
 ###
