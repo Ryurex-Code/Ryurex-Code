@@ -89,6 +89,7 @@
 <h3 align="left">🐍 Coding in Python, Growing Like a Snake! 🎮</h3>
 <img src="https://raw.githubusercontent.com/ryurex-code/ryurex-code/output/snake.svg" alt="Snake animation" />
 <hr>
+
 ###
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/3a3XcQUCFPkAAAAC/lycoris-recoil-chisato-nishikigi.gif"  />
